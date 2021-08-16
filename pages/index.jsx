@@ -3,6 +3,7 @@ import Loader from '../components/Loader';
 import { firestore, fromMillis, postToJSON } from '../lib/firebase';
 
 import { useState } from 'react';
+//Andrea Made a comment
 
 const LIMIT = 10;
 
